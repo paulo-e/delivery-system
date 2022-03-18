@@ -1,3 +1,5 @@
+@file:Suppress("unused")
+
 package com.pauloelienay.productservice.utils
 
 import java.math.BigDecimal

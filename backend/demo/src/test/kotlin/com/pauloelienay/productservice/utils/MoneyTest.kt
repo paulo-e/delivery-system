@@ -1,7 +1,7 @@
-package com.pauloelienay.productservice.model
+package com.pauloelienay.productservice.utils
 
 import java.math.BigDecimal
-import org.junit.jupiter.api.Assertions.*
+import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Test
 
 internal class MoneyTest {

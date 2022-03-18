@@ -1,10 +1,9 @@
 package com.pauloelienay.productservice.extensions
 
-import com.pauloelienay.productservice.model.`$`
+import com.pauloelienay.productservice.utils.`$`
 import java.math.BigDecimal
+import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Test
-
-import org.junit.jupiter.api.Assertions.*
 
 internal class BigDecimalKtTest {
 
