@@ -1,4 +1,4 @@
-package com.pauloelienay.productservice.model
+package com.pauloelienay.productservice.utils
 
 import java.math.BigDecimal
 
